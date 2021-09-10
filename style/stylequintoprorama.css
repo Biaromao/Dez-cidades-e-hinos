@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    background-color: rgb(217, 230, 228);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(26, 32, 32);     
+}
+
+#saocaetano {
+    background-color: #5074c9;
+    text-align: center;
+}
+
+#saocaetano img {
+    width: 300px;
+    margin: auto;
+}
+
+#valinhos {
+    background-color: #28db8e62;
+    text-align: center;
+}
+
+#valinhos img {
+    width: 300px;
+    margin: auto;
+}
+
+#vinhedo {
+    background-color: #921a1eb4;
+    text-align: center;
+}
+
+#vinhedo img {
+    width: 300px;
+    margin: auto;
+} 
+
+#araraquara {
+    background-color: #0193CF;
+    text-align: center;
+}
+
+#araraquara img {
+    width: 300px;
+    margin: auto;
+}
+
+#santana {
+    background-color: #0a19ebc9;
+    text-align: center;
+}
+
+#santana img {
+    width: 300px;
+    margin: auto;
+}
+
+#ilhasolteira {
+    background-color: #5577B7;
+    text-align: center;
+
+}
+
+#ilhasolteira img {
+    width: 300px;
+    margin: auto;
+}
+
+#Jundiaí {
+    background-color: #72e47294;
+    text-align: center;
+}
+
+#Jundiaí img {
+    width: 300px;
+    margin: auto;
+}
+
+#santoandre {
+    background-color: #e4e0d269;
+    text-align: center;
+}
+
+#santoandre img {
+    width: 300px;
+    margin: auto;
+}
+
+#santos {
+    background-color: #d9251c86;
+    text-align: center;
+}
+
+#santos img {
+    width: 300px;
+    margin: auto;
+}
+
+#aguas {
+    background-color: #219bfe7e;
+    text-align: center;
+}
+
+#aguas img {
+    width: 300px;
+    margin: auto;
+}
